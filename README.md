@@ -12,7 +12,6 @@ Extensive descriptions coming soon
 * Bottle.py
 * Bson (install with pymongo instead of bson)
 * Pytest
-
 * Nginx
 * uWSGI
 * Postgres or any RDS/datastore
