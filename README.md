@@ -2,6 +2,9 @@
 
 Extensive descriptions coming soon
 
+### Demo
+* http://cd.alexhoang.net/
+
 ### Data
 * Alexa 1M dump: http://s3.amazonaws.com/alexa-static/top-1m.csv.zip
 * Freebase dump: https://developers.google.com/freebase/data#freebase-rdf-dumps
